@@ -2,3 +2,4 @@ Data/
 slide_bao_cao.pdf
 flower_classification/model/cnn_model.h5
 data.zip
+.venv/
